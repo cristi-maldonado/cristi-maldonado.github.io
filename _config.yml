@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: Testing
+title: Clewiston Historical Sites
 
 # Your name to show in the footer
-author: Me
+author: Cristi Maldonado
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Gallery: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
