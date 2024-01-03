@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Clewiston Historical Sites
+title: AI/ML Learning Trip
 
 # Your name to show in the footer
 author: Cristi Maldonado
@@ -20,10 +20,10 @@ author: Cristi Maldonado
 ###############################################
 
 navbar-links:
-  Gallery: "aboutme"
+  About Me: "aboutme"
   Resources:
-    - The Clewiston Museum Archives: "https://www.theclewistonmuseum.org/clewiston-news-archives"
-    - University of Florida Archives: "https://original-ufdc.uflib.ufl.edu/results/?t=Clewiston,,,&f=ZZ,+TI,+AU,+TO"
+    - Inspiration-How to get good: "https://medium.com/geekculture/how-to-become-very-good-at-machine-learning-a78e3d93fe96"
+    - U: "https://original-ufdc.uflib.ufl.edu/results/?t=Clewiston,,,&f=ZZ,+TI,+AU,+TO"
   Author's home: "imageslider"
 
 ################
