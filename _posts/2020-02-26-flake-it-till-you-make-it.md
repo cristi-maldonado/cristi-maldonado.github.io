@@ -9,8 +9,16 @@ tags: [Introduction]
 author: Cristi Maldonado
 ---
 
-I've gone through several years of schooling and yet I don't feel confident in my work. I have shallow theoretical knowledge of AI/ML and Data Science. I think to myself, "Will I be able to accomplish anything swimming in shallow waters?" So, here I am. Taking on this monstrous task of attempting mastery of a very difficult domain. Feel free to join me on this trip. Maybe what you find here will help you along on your learning path. Maybe you would like to share something that may help me along the way. Whatever the reason, I welcome you and thank you for being a part of this. 
+Welcome to Mastery in AI/ML Blog
 
-My intended plan is to holistically cover 2 AI/ML/Data Science academic papers a week. If during the course of covering a paper, I find that I need to have a better background understanding I may divert and covering some foundational concept. I will try to highlight information that a beginner will find useful. I will also try to provide code examples. 
+Embarking on the journey of mastering AI, ML, and Data Science is a formidable challenge—one that demands dedication, continuous learning, and a deep understanding of complex concepts. After several years of schooling, I find myself questioning the depth of my knowledge and pondering the significance of what all those years of schooling prepared for me. 
 
-Now that my intentions have been thrown out into the either. I hope this means I will continue this blog... 
+Well I'm done feeling helpless. This blog is a documentation of my commitment to mastering this vast and intricate domain. It also serves as an open invitation to you, fellow learner, to join me on this expedition. Together, we'll navigate the depths of academic papers, unravel foundational concepts, and strive for mastery. If, a mastered AI/ML practictionar, stumble upon this humble attempt please I invite you share your knowledge. 
+
+The Journey Ahead
+
+My plan is to delve into two AI/ML/Data Science academic papers each week, providing a holistic coverage that aims to benefit both beginners and seasoned practitioners. Should the need arise for a deeper understanding of foundational concepts during the paper exploration, I will divert and address those necessary fundamental topics. Practicality is key, and I'll strive to include code examples to solidify theoretical knowledge.
+
+I extend a warm welcome and express my gratitude for your presence on this learning voyage. Whether you're here to gain insights, share knowledge, or simply accompany me on this path, your participation is valued. As my intentions are cast into the digital realm, I am hopeful that this blog will become a shared space for continuous learning and growth.
+
+Let the journey to mastery begin.
