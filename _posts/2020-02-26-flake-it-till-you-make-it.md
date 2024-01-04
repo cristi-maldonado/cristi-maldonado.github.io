@@ -15,7 +15,7 @@ Embarking on the journey of mastering AI, ML, and Data Science is a formidable c
 
 Well I'm done feeling helpless. This blog is a documentation of my commitment to mastering this vast and intricate domain. It also serves as an open invitation to you, fellow learner, to join me on this expedition. Together, we'll navigate the depths of academic papers, unravel foundational concepts, and strive for mastery. If, a mastered AI/ML practictionar, stumble upon this humble attempt please I invite you share your knowledge. 
 
-The Journey Ahead
+### The Journey Ahead
 
 My plan is to delve into two AI/ML/Data Science academic papers each week, providing a holistic coverage that aims to benefit both beginners and seasoned practitioners. Should the need arise for a deeper understanding of foundational concepts during the paper exploration, I will divert and address those necessary fundamental topics. Practicality is key, and I'll strive to include code examples to solidify theoretical knowledge.
 
