@@ -3,7 +3,7 @@ layout: post
 title: Yeah, I think we can master AI/ML. 
 subtitle: The proposed plan
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/thinking.jpg
 share-img: /assets/img/path.jpg
 tags: [Introduction]
 author: Cristi Maldonado
