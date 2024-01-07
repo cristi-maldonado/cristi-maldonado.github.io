@@ -17,3 +17,6 @@ Today, I find myself navigating in the professional landscape of the tech world.
 
 ### Vision and Purpose
 My professional narrative is a testament to the idea that success is attainable through perseverance and a commitment to continuous improvement. I am driven by the desire to assist and inspire those whose stories resonate with my own. By sharing experiences, knowledge, and insights, I aspire to contribute to the growth and success of others in the tech community.
+
+### 10000 Hours 
+Over a decade ago, I read the book "Outliers" by Malcom Gladwell. The hours mentioned, a catchy reminder for folks, stayed in my mind knocking around as a constant reminder. A 10000 hour commitment to your craft may or may not make you an expert, but it is catchy enough for me to hold on to the idea. With enought time I will reach the point that I can comfortably call myself an expert. 

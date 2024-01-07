@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: AI/ML Learning Trip
+title: 10000 Hours to Tech Master
 
 # Your name to show in the footer
 author: Cristi Maldonado
@@ -23,8 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Inspiration-How to get good: "https://medium.com/geekculture/how-to-become-very-good-at-machine-learning-a78e3d93fe96"
-    - U: "https://original-ufdc.uflib.ufl.edu/results/?t=Clewiston,,,&f=ZZ,+TI,+AU,+TO"
-  Author's home: "imageslider"
+    - Arxiv: "https://arxiv.org/"
 
 ################
 # --- Logo --- #
