@@ -3,7 +3,7 @@ layout: post
 title: Few Shot Learning Intro. 
 subtitle: Draft- Approaching Few Shot
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thinking.jpg
+thumbnail-img: /assets/img/few_shot_target.jpg
 share-img: /assets/img/path.jpg
 tags: [few shot learning, few, small sample]
 author: Cristi Maldonado
