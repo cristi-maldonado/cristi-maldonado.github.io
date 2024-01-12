@@ -20,18 +20,13 @@ In contrast, Few-Shot is not asking "Is this a tiger, vaquita, etc.?" Rather you
 ### What is Meta-Learning?
 This is a simple excercise, take a look at the picture below. This is an AI generated never-before-seen creature called poobadeedoo.
 
-
-
-
+![poobadeedoo](https://beautifuljekyll.com/assets/img/few_shot_creature.jpg){: .mx-auto.d-block :} 
 
 
 Is this also a poobadeedoo? 
+![poobadeedoo](https://beautifuljekyll.com/assets/img/few_shot_creature.jpg){: .mx-auto.d-block :} 
 
 
-
-
-
-
-Most people would say yes this is also a poobadeedoo. 
+Most people would say yes this is also a poobadeedoo in a store wearing a shirt. 
 
 This is the idea of meta-learning. You learned how to learn and can now quite quickly tell the similarity of two never before seen creature. The idea of Meta-Learning is particularly important to AI, because it aims to mimic how we are as humans. In the standard classification Neural Networks first randomly initialize some parameters and slowly work our way to the right answer. This is very time consuming and not very human-like. However, as we just demonstrated, we humans we first look for a prior level of understanding (e.g. "I'll check to see if it has eyes." As humans we don't have to be told what eyes are in our existence we learned that and we carry that prior knowledge...) Then we look for the faster way to determine a similarity, (e.g. "Does it have the correct amount of eyes?"). 
