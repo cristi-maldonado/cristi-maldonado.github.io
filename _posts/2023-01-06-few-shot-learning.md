@@ -21,11 +21,11 @@ In contrast, Few-Shot is not asking "Is this a tiger, vaquita, etc.?" Rather you
 This is a simple excercise, take a look at the picture below. This is an AI generated never-before-seen creature called poobadeedoo.
 
 
-![poobadeedoo]([https://beautifuljekyll.com/assets/img/few_shot_creature.png](https://github.com/cristi-maldonado/cristi-maldonado.github.io/blob/master/assets/img/few_shot_creature.png){: .mx-auto.d-block :} 
+![poobadeedoo](https://github.com/cristi-maldonado/cristi-maldonado.github.io/blob/master/assets/img/few_shot_creature.png){: .mx-auto.d-block :} 
 
 
 Is this also a poobadeedoo? 
-![poobadeedoo in a store][(https://beautifuljekyll.com/assets/img/few_shot_creature_shot.png)](https://github.com/cristi-maldonado/cristi-maldonado.github.io/blob/master/assets/img/few_shot_creature_shot.png){: .mx-auto.d-block :} 
+![poobadeedoo in a store](https://github.com/cristi-maldonado/cristi-maldonado.github.io/blob/master/assets/img/few_shot_creature_shot.png){: .mx-auto.d-block :} 
 
 
 Most people would say yes this is also a poobadeedoo in a store wearing a shirt. 
