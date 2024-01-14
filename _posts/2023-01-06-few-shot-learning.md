@@ -34,17 +34,19 @@ This is the idea of meta-learning. You learned how to learn and can now quite qu
 
 Now let's talk about the data you will be using for your few-shot learning. The support set, training set, and query are essential components in few-shot learning. The training set is the primary dataset used to train the base model. In the example below I'm training with three classes. Normally this will be a very large training data set with many many classes and many examples of those classes. The training set helps the model learn the underlying patterns and features of the task.
 
-![training set]({{ '/assets/img/training_set_few_shot.PNG' | relative_url }}).{: .mx-auto.d-block :} 
+![training set]({{ '/assets/img/training_set_few_shot.PNG' | relative_url }}) 
 
 The support set is a subset of the training set and consists of a small number of examples (or support instances) for each class or category.
 Each class in the support set has a limited number of instances, providing the model with a glimpse of the specific characteristics of each class.
 The support set is used to fine-tune the model or adapt it to recognize new classes during inference. In this small support I have k classes and n examples of that class. 
 
-![support set]({{ '/assets/img/support_set_few_shot.PNG' | relative_url }}).{: .mx-auto.d-block :}
+![support set]({{ '/assets/img/support_set_few_shot.PNG' | relative_url }})
 
 The query set is a set of examples that the model has not seen during training.
 It is used to evaluate the generalization performance of the model.The model is tested on the query set to assess its ability to recognize and classify new instances or classes based on the few examples provided in the support set. With this query I will be asking, "Which animal in the support set is this new animal the most like?" 
 
-![query]({{ '/assets/img/query_few_shot.PNG' | relative_url }}).{: .mx-auto.d-block :} 
+![query]({{ '/assets/img/query_few_shot.PNG' | relative_url }})
 
-In summary, few-shot learning involves training a model on a small training set with a support set containing a limited number of examples for each class. The model's performance is then evaluated on a separate query set to test its ability to generalize to new, unseen instances. This paradigm is particularly useful in scenarios where obtaining a large amount of labeled data for training is challenging. 
+To summarize few-shot learning involves training a model on a small training set with a support set containing a limited number of examples for each class. The model's performance is then evaluated on a separate query set to test its ability to generalize to new, unseen instances. This paradigm is particularly useful in scenarios where obtaining a large amount of labeled data for training is challenging. 
+
+In the next blog we will take a look at Siamese Networks to accomplish few-shot learning. 
