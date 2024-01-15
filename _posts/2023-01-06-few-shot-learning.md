@@ -20,11 +20,11 @@ In contrast, Few-Shot is not asking "Is this a tiger, vaquita, etc.?" Rather you
 ### What is Meta-Learning?
 This is a simple excercise, take a look at the picture below. This is an AI generated never-before-seen creature called poobadeedoo.
 
-![poobadeedo]({{ '/assets/img/few_shot_creature.png' | relative_url }}).{: .mx-auto.d-block :} 
+![poobadeedo]({{ '/assets/img/few_shot_creature.png' | relative_url }})
 
 Is this also a poobadeedoo? 
 
-![poobadeedo in a store]({{ '/assets/img/few_shot_creature_shot.PNG' | relative_url }}).{: .mx-auto.d-block :} 
+![poobadeedo in a store]({{ '/assets/img/few_shot_creature_shot.PNG' | relative_url }})
 
 Most people would say yes this is also a poobadeedoo in a store wearing a shirt. 
 
