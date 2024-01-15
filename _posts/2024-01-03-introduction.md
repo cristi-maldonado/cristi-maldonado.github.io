@@ -17,7 +17,7 @@ Well I'm done feeling helpless. This blog is a documentation of my commitment to
 
 ### The Journey Ahead
 
-My plan is to delve into two AI/ML/Data Science academic papers each week, providing a holistic coverage that aims to benefit both beginners and seasoned practitioners. Should the need arise for a deeper understanding of foundational concepts during the paper exploration, I will divert and address those necessary fundamental topics. Practicality is key, and I'll strive to include code examples to solidify theoretical knowledge.
+My plan is to delve into two AI/ML/Data Science academic papers, tutorials, and other tech blogs each week, providing a holistic coverage that aims to benefit both beginners and seasoned practitioners. Should the need arise for a deeper understanding of foundational concepts during the paper exploration, I will divert and address those necessary fundamental topics. Practicality is key, and I'll strive to include code examples to solidify theoretical knowledge.
 
 I extend a warm welcome and express my gratitude for your presence on this learning voyage. Whether you're here to gain insights, share knowledge, or simply accompany me on this path, your participation is valued. As my intentions are cast into the digital realm, I am hopeful that this blog will become a shared space for continuous learning and growth.
 
