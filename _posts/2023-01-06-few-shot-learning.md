@@ -24,7 +24,7 @@ This is a simple excercise, take a look at the picture below. This is an AI gene
 
 Is this also a poobadeedoo? 
 
-![poobadeedo in a store]({{ '/assets/img/few_shot_creature_shot.png' | relative_url }}).{: .mx-auto.d-block :} 
+![poobadeedo in a store]({{ '/assets/img/few_shot_creature_shot.PNG' | relative_url }}).{: .mx-auto.d-block :} 
 
 Most people would say yes this is also a poobadeedoo in a store wearing a shirt. 
 
