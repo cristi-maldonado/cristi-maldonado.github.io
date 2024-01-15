@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Few Shot Learning Intro. 
-subtitle: Draft- Approaching Few Shot
+title: Few Shot Learning Introduction 
+subtitle: Approaching Few-Shot
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/few_shot_target.jpg
 share-img: /assets/img/path.jpg
@@ -9,7 +9,7 @@ tags: [few shot learning, few, small sample]
 author: Cristi Maldonado
 ---
 
-Few Shot Learning has come riding in on a white horse to conteract the major limiation of large classification models. These architectures can be used for various tasks, but in order for it to accomplish its specific task it needs a large dataset specific enough and fine-tuned to the task at hand. Labelling a large dataset is time-consuming at best and unattainable at worst. Few Shot learning comes in promising to deliver performance with just a few-shot demonstrations. It sounds too good to be true, let's take a looker look at Few-Shot. 
+Few Shot Learning has come riding in on a white horse to conteract the major limiation of large classification models. These architectures can be used for various tasks, but in order for it to accomplish its specific task it needs a large dataset specific enough and fine-tuned to the task at hand. Labelling a large dataset is time-consuming at best and unattainable at worst. Few Shot learning comes in promising to deliver performance with just a Few-shot demonstrations. It sounds too good to be true, let's take a looker look at Few-Shot. 
 
 ### Few Shot is not a Standard Classification 
 The goal with a standard classification problem is to answer this question: "What animal is this? Is this a tiger?" 
@@ -32,7 +32,7 @@ This is the idea of meta-learning. You learned how to learn and can now quite qu
 
 ### Few Shot Data Sets 
 
-Now let's talk about the data you will be using for your few-shot learning. The support set, training set, and query are essential components in few-shot learning. The training set is the primary dataset used to train the base model. In the example below I'm training with three classes. Normally this will be a very large training data set with many many classes and many examples of those classes. The training set helps the model learn the underlying patterns and features of the task.
+Now let's talk about the data you will be using for your Few-shot learning. The support set, training set, and query are essential components in Few-shot learning. The training set is the primary dataset used to train the base model. In the example below I'm training with three classes. Normally this will be a very large training data set with many many classes and many examples of those classes. The training set helps the model learn the underlying patterns and features of the task.
 
 ![training set]({{ '/assets/img/training_set_few_shot.PNG' | relative_url }}) 
 
@@ -47,6 +47,6 @@ It is used to evaluate the generalization performance of the model.The model is 
 
 ![query]({{ '/assets/img/query_few_shot.PNG' | relative_url }})
 
-To summarize few-shot learning involves training a model on a small training set with a support set containing a limited number of examples for each class. The model's performance is then evaluated on a separate query set to test its ability to generalize to new, unseen instances. This paradigm is particularly useful in scenarios where obtaining a large amount of labeled data for training is challenging. 
+To summarize Few-shot learning involves training a model on a small training set with a support set containing a limited number of examples for each class. The model's performance is then evaluated on a separate query set to test its ability to generalize to new, unseen instances. This paradigm is particularly useful in scenarios where obtaining a large amount of labeled data for training is challenging. 
 
-In the next blog we will take a look at Siamese Networks to accomplish few-shot learning. 
+In the next blog we will take a look at Siamese Networks to accomplish Few-shot learning. 
